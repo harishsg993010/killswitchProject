@@ -1,4 +1,6 @@
 # killswitchProject
 An experimental project to detect and stop ransomware based on behaviour
 
-# you can check the proof folder to find pic which prove yhis tool works against various ransomware samples such as bianlian , blackbasta etc
+# you can check the proof folder to find pic which prove this tool works against various ransomware samples such as bianlian , blackbasta etc
+
+## contact : harishsg99@gmail.com for queries
